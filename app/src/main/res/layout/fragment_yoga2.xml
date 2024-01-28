@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background2"
+    tools:context=".Yoga2Fragment">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Video 1 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pregnancy_yoga_for_4_6_months_in_hindi_part_1_full_practice"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="VakKsFDYrfg"
+                app:autoPlay="true"/>
+        </LinearLayout>
+
+        <!-- Video 2 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_4_month_pregnancy_workout_week_13_16"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="Gj1Jw6m8o40"
+                app:autoPlay="true" />
+        </LinearLayout>
+
+        <!-- Video 3 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pregnancy_yoga_beginner_techniques_episode_1_tonic"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="B87FpWtkIKA"
+                app:autoPlay="true"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

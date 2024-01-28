@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background3"
+    tools:context=".Music3Fragment">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Video 1 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/special_music_for_unborn_baby_brain_development_pregnancy_music"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="AWeQOLNLffg"
+                app:autoPlay="true"/>
+        </LinearLayout>
+
+        <!-- Video 2 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pregnancy_music_gharbha_samvardhini_nada"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="kpU99pvwo8o"
+                app:autoPlay="true" />
+        </LinearLayout>
+
+        <!-- Video 3 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mantras_for_healthy_baby_during_pregnancy_santhanagopala_gayathri_mantra_for_fetus_garbha_sanskar"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="TQ6ElLsFvVs"
+                app:autoPlay="true"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

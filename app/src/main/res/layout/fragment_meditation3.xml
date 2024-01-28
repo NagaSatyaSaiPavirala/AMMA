@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background3"
+    tools:context=".Meditation3Fragment">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- Video 1 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_10_minutes_guided_meditation_meditation_for_anxiety_depression_by_dr_kashika_jain_hindi"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="Ivbkx4GUzAY"
+                app:autoPlay="true"/>
+        </LinearLayout>
+
+        <!-- Video 2 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/shiva_mantra_to_remove_all_negative_thoughts"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="BN0BuCLCBpQ"
+                app:autoPlay="true" />
+        </LinearLayout>
+
+        <!-- Video 3 -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/remove_fear_in_12_mins_with_shiva_rudra_mantra_powerful_shiva_mantra"
+                android:padding="8dp"
+                android:textSize="18sp"
+                android:textColor="#000000"/>
+
+            <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+                android:id="@+id/youtube_player_view3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:videoId="ach7JIhCpJc"
+                app:autoPlay="true"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

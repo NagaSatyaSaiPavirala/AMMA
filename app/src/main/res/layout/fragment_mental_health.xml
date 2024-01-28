@@ -1,0 +1,52 @@
+<!--
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MentalHealthFragment">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mental health fragment"
+        android:textSize="25sp"
+        android:layout_centerInParent="true"/>
+
+</FrameLayout>
+-->
+<!-- res/layout/fragment_mental_health.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background2"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btnFirstTrimester"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/_1st_trimester"
+        android:background="@drawable/rounded_button"
+        android:layout_margin="8dp"
+       />
+
+    <Button
+        android:id="@+id/btnSecondTrimester"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/_2nd_trimester"
+        android:background="@drawable/rounded_button"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/btnThirdTrimester"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/_3rd_trimester"
+        android:background="@drawable/rounded_button"
+        android:layout_margin="8dp"/>
+</LinearLayout>

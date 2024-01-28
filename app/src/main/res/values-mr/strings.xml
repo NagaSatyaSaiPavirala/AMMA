@@ -1,0 +1,86 @@
+
+
+<resources>
+    <string name="app_name">AMMA</string>
+    <string name="login">लॉगिन</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="register">नोंदणी</string>
+    <string name="click_to_login">पहिलच अँप वापरकर्ता? लॉगिन करा</string>
+    <string name="click_to_register">नवा वापरकर्ता? नोंदणी करा</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="confirm_password">पासवर्डची पुष्टी करा</string>
+    <string name="mother_email">आईचा ईमेल</string>
+    <string name="husband_email">पतीचा ईमेल</string>
+    <string name="profile">प्रोफाइल</string>
+    <string name="community">समुदाय</string>
+    <string name="mental_health">मानसिक आरोग्य</string>
+    <string name="reminder">आठवण करणारा</string>
+    <string name="hello_blank_fragment">हॅलो ब्लॅंक फ्रॅग्मेंट</string>
+    <string name="food">आहार</string>
+    <string name="music">संगीत</string>
+    <string name="meditation">ध्यानधारण</string>
+    <string name="yoga">योग</string>
+        <string name="pregnancy_music_for_mother_and_unborn_baby_baby_brain_development_music_music_for_pregnant_women">गरोदरपणाचे संगीत मातेसाठी आणि अर्भक बाळासाठी | बाळाच्या मेंदूविकासाचे संगीत | गरोदर महिलांसाठी संगीत</string>
+        <string name="pregnancy_music_for_the_unborn_baby_brain_development_classical_music_for_the_baby_in_the_womb">गरोदरपणाचे संगीत अर्भक बाळासाठी ♡ मेंदूविकास ♡ पोटातल्या बाळासाठी शास्त्रीय संगीत</string>
+        <string name="pregnancy_music_for_baby_in_womb_brain_development_relaxing_soothing_music_for_pregnant_women">गरोदरपणाचे संगीत गर्भातील बाळासाठी | मेंदूविकास | गरोदर महिलांसाठी आरामदायक आणि शांत करणारे संगीत</string>
+
+        <string name="meditation_during_meditation_tips_for_pregnant_women_guided_mediation_radhika_agarwal">ध्यानधारण गरोदरपणात 𝐏𝐑𝐄𝐆𝐀𝐍𝐂𝐘 | गरोदर महिलांसाठी ध्यानधारण टिप्स | मार्गदर्शित ध्यान | राधिका अग्रवाल</string>
+        <string name="learn_how_to_meditate_during_pregnancy_hindi">गरोदरपणात ध्यान कसे करायचे शिका (हिंदी)</string>
+        <string name="powerful_womb_healing_meditation_pregnancy_mantras_garbh_sanskar_mantras">शक्तिशाली गर्भाशय उपचार ध्यान | गरोदर मंत्र | गर्भ संस्कार मंत्र |</string>
+
+        <string name="yoga_for_pregnancy_in_hindi_i_1_3_months_full_practice">गरोदरपणाचे योग हिंदीमध्ये मी 1-3 महिने (पूर्ण सराव)</string>
+        <string name="yoga_for_pregnant_women_part_1_mp4">गरोदर महिलांसाठी योग भाग 1.mp4</string>
+        <string name="yoga_for_pregnant_women_part_2_mp4">गरोदर महिलांसाठी योग भाग 2.mp4</string>
+
+
+        <string name="pregnancy_music_to_make_baby_move_brain_development_relaxing_soothing_music_for_pregnant_women">गरोदरपणाचे संगीत बाळाला हलवायला लावणारे | मेंदूविकास | गरोदर महिलांसाठी आरामदायक आणि शांत करणारे संगीत</string>
+        <string name="pregnancy_music_for_mother_and_unborn_baby_relaxing_peaceful_soothing_music_for_pregnant_women">गरोदरपणाचे संगीत आई आणि अर्भक बाळासाठी | गरोदर महिलांसाठी आरामदायक शांत करणारे संगीत</string>
+        <string name="meditation_prayer_during_pregnancy_for_women_in_hindi">गरोदरपणात स्त्रियांसाठी ध्यान प्रार्थना (हिंदी)</string>
+        <string name="garbh_geeta_in_pregnancy">गरोदरपणात गर्भगीता</string>
+        <string name="santhana_gopala_mantra_108_times_mantra_for_pregnancy_garbharaksha_sloka">संतन गोपाल मंत्र - 108 वेळा - गरोदरपणाचा मंत्र - गर्भरक्षा श्लोक</string>
+        <string name="pregnancy_yoga_for_4_6_months_in_hindi_part_1_full_practice">गरोदरपणाचे योग 4-6 महिने हिंदी भाग 1 (पूर्ण सराव)</string>
+        <string name="_4_month_pregnancy_workout_week_13_16">4 महिन्यांचे गरोदर व्यायाम | आठवडा 13-16</string>
+        <string name="pregnancy_yoga_beginner_techniques_episode_1_tonic">गरोदरपणाचे योग: नवशिके तंत्र | एपिसोड 1 | टॉनिक</string>
+        <string name="ok">ठिक आहे</string>
+        <string name="dismiss">डिसमिस करा</string>
+        <string name="set_reminder">रिमाइंडर सेट करा</string>
+        <string name="reminder_name">रिमाइंडरचे नाव</string>
+        <string name="_1st_trimester">पहिला तिमाही</string>
+        <string name="_2nd_trimester">दुसरा तिमाही</string>
+        <string name="_3rd_trimester">तिसरा तिमाही</string>
+        <string name="your_profile">तुमचे प्रोफाइल</string>
+        <string name="user_email">वापरकर्ता ईमेल:</string>
+        <string name="hus_email">पतीचा ईमेल:</string>
+        <string name="mot_email">आईचा ईमेल:</string>
+        <string name="food1">आहार</string>
+        <string name="music1">संगीत</string>
+        <string name="meditation1">ध्यानधारण</string>
+        <string name="yoga1">योग</string>
+        <string name="yris">तुमचा रिमाइंडर सेट केला आहे</string>
+        <string name="ra">रिमाइंडर सक्रिय</string>
+        <string name="yrtr">तुम्ही रिमाइंडरला प्रतिसाद दिला</string>
+        <string name="ydtr">तुम्ही रिमाइंडर डिसमिस केला</string>
+        <string name="ok_button_text">ठिक आहे</string>
+        <string name="dismiss_button_text">डिसमिस करा</string>
+        <string name="ee">ईमेल एंटर करा</string>
+        <string name="ep">पासवर्ड एंटर करा</string>
+        <string name="ls">लॉगिन यशस्वी</string>
+        <string name="af">प्रमाणीकरण अयशस्वी</string>
+        <string name="pht">पासवर्ड >6 वर्ण असणे आवश्यक आहे</string>
+        <string name="ecp">पासवर्डची पुष्टी करा</string>
+        <string name="pnm">पासवर्ड जुळत नाहीत</string>
+        <string name="eme">आईचा ईमेल एंटर करा</string>
+        <string name="ehe">पतीचा ईमेल एंटर करा</string>
+        <string name="ac">खाते तयार केले</string>
+
+        <string name="special_music_for_unborn_baby_brain_development_pregnancy_music">गर्भातील बाळासाठी खास संगीत | मेंदूविकास | गरोदरपणाचे संगीत</string>
+        <string name="pregnancy_music_gharbha_samvardhini_nada">गरोदरपणाचे संगीत: गर्भा संवर्धिनी नाद</string>
+        <string name="mantras_for_healthy_baby_during_pregnancy_santhanagopala_gayathri_mantra_for_fetus_garbha_sanskar">गरोदरपणात आरोग्यवान बाळासाठी मंत्र | गर्भाला सन्थानगोपाल गायत्री मंत्र - गर्भा संस्कार</string>
+        <string name="_10_minutes_guided_meditation_meditation_for_anxiety_depression_by_dr_kashika_jain_hindi">10 मिनिटांचे मार्गदर्शन ध्यान | डॉ. काशिका जैन यांच्याद्वारे चिंता आणि नैरास्य दूर करण्यासाठी ध्यान | हिंदी</string>
+        <string name="shiva_mantra_to_remove_all_negative_thoughts">सर्व नकारात्मक विचार दूर करण्यासाठी शिव मंत्र</string>
+        <string name="remove_fear_in_12_mins_with_shiva_rudra_mantra_powerful_shiva_mantra">12 मिनिटांमध्ये शिव रुद्र मंत्राने भीती दूर करणारा प्रभावशाली शिव मंत्र</string>
+        <string name="part_1_i_pregnancy_yoga_for_7_9_months_in_hindi_part_1_full_practice">भाग 1 मी गरोदरपणाचे योग 7-9 महिने हिंदी भाग 1 (पूर्ण सराव)</string>
+        <string name="part_2_i_pregnancy_yoga_for_7_9_months_in_hindi_part_2_full_practice">भाग 2 मी गरोदरपणाचे योग 7-9 महिने हिंदी भाग 2 (पूर्ण सराव)</string>
+        <string name="pregnancy_yoga_third_trimester">गरोदरपणाचे योग तिसरे तिमाही</string>
+    </resources>

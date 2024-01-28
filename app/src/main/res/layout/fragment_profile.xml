@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/gradient_background3"
+    tools:context=".ProfileFragment">
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_profile"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"/>
+    <ImageView
+        android:id="@+id/account_icon"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/baseline_account_circle_24"
+        android:contentDescription="Account Icon"
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/usertitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/user_email"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/user_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="User mail"/>
+    <TextView
+        android:id="@+id/hemailtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hus_email"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/hemail_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Husband mail"/>
+    <TextView
+        android:id="@+id/memailtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mot_email"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/memail_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mother mail"/>
+    <Button
+        android:text="@string/logout"
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"/>
+</LinearLayout>

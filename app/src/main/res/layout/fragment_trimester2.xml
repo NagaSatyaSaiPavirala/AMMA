@@ -1,0 +1,42 @@
+<!-- res/layout/fragment_trimester_1.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_background2"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btnFood"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/food1"
+        android:background="@drawable/rounded_button"
+        android:layout_margin="8dp" />
+
+    <Button
+        android:id="@+id/btnMusic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/music1"
+        android:background="@drawable/rounded_button"
+        android:layout_margin="8dp" />
+
+    <Button
+        android:id="@+id/btnMeditation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/meditation1"
+        android:background="@drawable/rounded_button"
+        android:layout_margin="8dp" />
+
+    <Button
+        android:id="@+id/btnYoga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yoga1"
+        android:background="@drawable/rounded_button"
+        android:layout_margin="8dp" />
+
+</LinearLayout>
