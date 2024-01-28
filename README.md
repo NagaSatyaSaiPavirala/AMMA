@@ -68,76 +68,87 @@ To build and run the application, follow these steps:
 
 2. Select language:
 
-![Select Language](<AMMA Screenshots/select_language.jpg>)
+![Alt text](<AMMA Screenshots/2 Select Language.jpg>)
 
 3. The supported 21 Indian languages are:
 
-![Language Support 1](<AMMA Screenshots/language_support_1.jpg>)
-![Language Support 2](<AMMA Screenshots/language_support_2.jpg>)
+![Alt text](<AMMA Screenshots/3 Language support 1.jpg>)
+![Alt text](<AMMA Screenshots/4Language support 2.jpg>)
 
 4. When a language is selected, it gives a toast message, and the login page is opened. If a new user clicks register:
 
-![After Selection](<AMMA Screenshots/after_selection.jpg>)
+![Alt text](<AMMA Screenshots/5After Selection.jpg>)
 
 5. When the pregnant woman clicks register:
 
-![Register 1](<AMMA Screenshots/register_1.jpg>)
+![Alt text](<AMMA Screenshots/6Register1.jpg>)
 
 6. When the pregnant woman tries to click register button without entering details, she gets a toast message "Enter email":
 
-![Register 2](<AMMA Screenshots/register_2.jpg>)
+![Alt text](<AMMA Screenshots/7Register2.jpg>)
 
 7. Creating an account by providing details and pressing the register button gives a toast message as "Account created":
 
-![Register 3](<AMMA Screenshots/register_3.jpg>)
+![Alt text](<AMMA Screenshots/8Register3.jpg>)
 
 8. Reminder page to select date, time, set reminder name:
 
-![Reminder 1](<AMMA Screenshots/reminder_1.jpg>)
-![Reminder 2](<AMMA Screenshots/reminder_2.jpg>)
+![Alt text](<AMMA Screenshots/9Reminder1.jpg>)
+![Alt text](<AMMA Screenshots/10Reminder 2.jpg>)
 
 9. Setting a reminder by clicking set reminder then it will give a toast message as "Reminder set".
+![Alt text](<AMMA Screenshots/11 Reminder Set.jpg>)
 
 10. At set time, the reminder gets activated with a toast message "Reminder activated" and screen having two buttons Ok and Dismiss.
+![Alt text](<AMMA Screenshots/12Reminder Activated.jpg>)
 
 11. If the pregnant woman takes required medicine or some reminder and clicks Ok then it gives a toast message as "You responded to reminder".
+![Alt text](<AMMA Screenshots/13 OK.jpg>)
 
 12. Again setting a new reminder, and if pregnant woman clicks Dismiss reminder, then app gives toast message as "You dismissed the reminder".
+![Alt text](<AMMA Screenshots/14 Reminder.jpg>)
+![Alt text](<AMMA Screenshots/15 Reminder Activated.jpg>)
 
 13. A mail to husband and mother and pregnant woman is sent as pregnant woman dismissed the reminder. Please do follow up.
+![Alt text](<AMMA Screenshots/17 Husband.jpg>)
+![Alt text](<AMMA Screenshots/18 Mother.jpg>)
 
 14. Mental health content trimester-wise:
 
-![Mental Health](<AMMA Screenshots/mental_health.jpg>)
+![Alt text](<AMMA Screenshots/19 Mental Health.jpg>)
 
 15. Food, Music, Meditation, Yoga:
 
-![F, M, Y, M](<AMMA Screenshots/f_m_y_m.jpg>)
+![Alt text](<AMMA Screenshots/20 F,M,Y,M.jpg>)
 
 16. Food text translated using Google translate API:
 
-![Food](<AMMA Screenshots/food.jpg>)
+![Alt text](<AMMA Screenshots/21Food.jpg>)
 
 17. Music section:
 
-![Music](<AMMA Screenshots/music.jpg>)
+![Alt text](<AMMA Screenshots/22Music.jpg>)
 
 18. Playing video on Youtube:
 
-![Music YT](<AMMA Screenshots/music_yt.jpg>)
+![Alt text](<AMMA Screenshots/23Music YT.jpg>)
 
 19. Meditation videos:
 
-![Meditation](<AMMA Screenshots/meditation.jpg>)
+![Alt text](<AMMA Screenshots/24Meditation.jpg>)
 
 20. Yoga videos:
 
-![Yoga](<AMMA Screenshots/yoga.jpg>)
+![Alt text](<AMMA Screenshots/25Yoga.jpg>)
 
 21. Profile section with registered user mail, husband mail, and mother mail:
 
-![Profile](<AMMA Screenshots/profile.jpg>)
+![Alt text](<AMMA Screenshots/26 Profile.jpg>)
 
 22. Pressed logout button and tried to log in with wrong credentials giving toast message "Login failed".
 
+![Alt text](<AMMA Screenshots/27Invalid user.jpg>)
+
 23. Login by correct credentials of the user giving toast message "Login successful".
+
+![Alt text](<AMMA Screenshots/28Valid user.jpg>)
