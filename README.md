@@ -14,8 +14,8 @@ AMMA (Antenatal Maternal Monitoring and Assistance) is a mobile application desi
   - Firestore for user collection creation
 - Communication:
   - SMTP for sending emails
-- Language Translation:
-  - Google Translate for translating large amounts of text into different languages
+- Language Translation API:
+  - Google Translate API for translating large amounts of text into different languages
 
 ## Dependencies
 - For database (firebase and firestore):
