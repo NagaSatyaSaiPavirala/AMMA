@@ -3,7 +3,7 @@
 **Happy Motherhood 😊**
 
 ## Overview
-AMMA (Antenatal Maternal Monitoring and Assistance) is a mobile application designed for pregnant women, addressing their slight memory loss by providing reminders. In case a reminder is dismissed, the app sends an email to the husband and mother of the pregnant woman for follow-up. The app is designed to support 21 languages in India, making it accessible to even less educated women. It aims to support expectant mothers during their pregnancy journey, offering various features for monitoring and assistance to ensure a healthy and happy pregnancy experience.
+AMMA (Antenatal Maternal Monitoring and Assistance) is a mobile application designed for pregnant woman as they suffer from slight memory loss so they can use this app to set reminders.If they dismissed the reminder the app sends mail to the husband and mother of pregnant woman to let them do follow up.The app is designed to support 21 languages in India so even the less educated woman can use the app.It supports expectant mothers during their pregnancy journey. The app provides various features to monitor and assist pregnant women, ensuring a healthy and happy pregnancy experience.
 
 ## Technologies Used
 - Programming Language: Java
@@ -31,15 +31,15 @@ AMMA (Antenatal Maternal Monitoring and Assistance) is a mobile application desi
 
 ## Features
 1. **Reminder:**
-   - The reminder rings with Ok and Dismiss buttons; if dismissed, an email is sent to the husband and mother for follow-up.
+   - The reminder rings with Ok and Dismiss buttons; if dismissed, an email is sent to the husband and mother for follow up.
 2. **Communication:**
    - SMTP integration for sending important emails, especially if the pregnant woman dismisses the reminder.
 3. **Multiple Language Support:**
-   - Google Translate integration for language translation services, supporting 21 Indian languages.
+   - Google Translate is integrated to provide language translation services, ensuring content accessibility in multiple languages so that even less educated woman can easily use the app.The app supports 21 Indian languages.
 4. **User Registration:**
-   - Firebase is used for user authentication, creating unique userIDs for pregnant women, and collecting email IDs for communication.
+   - Firebase is used for user authentication and to create unique userIDs for pregnant woman and she adds her husband and mother mail ids which are used to send email if pregnant woman dismisses the email.
 5. **Monitoring:**
-   - Firestore is utilized to store and manage user-specific data related to pregnancy monitoring, ensuring data security.
+   - The app utilizes Firestore to store and manage user-specific data related to pregnancy monitoring.Which is handled by Google so the data is safe and secure.
 
 ## Usage Instructions
 1. **Internet Connection:**
@@ -51,7 +51,7 @@ AMMA (Antenatal Maternal Monitoring and Assistance) is a mobile application desi
 4. **Communication Services:**
    - Husband and mother of pregnant women will receive emails if the pregnant woman dismisses the reminder.
 5. **Language Translation:**
-   - Google Translate ensures content accessibility in multiple languages.
+   - Google Translate ensures that content is available in multiple languages, enhancing user accessibility and easy to use for less educated woman.
 
 ## How to Build
 To build and run the application, follow these steps:
