@@ -64,37 +64,37 @@ To build and run the application, follow these steps:
 ## How to Use App (with Screenshots)
 1. When the app is opened, it will show a splash screen like below:
 
-![Splash Screen](AMMA Screenshots/splash_screen.png)
+![Alt text](<AMMA Screenshots/1SplashScreen.jpg>)
 
 2. Select language:
 
-![Select Language](AMMA Screenshots/select_language.png)
+![Select Language](AMMA Screenshots/select_language.jpg)
 
 3. The supported 21 Indian languages are:
 
-![Language Support 1](AMMA Screenshots/language_support_1.png)
-![Language Support 2](AMMA Screenshots/language_support_2.png)
+![Language Support 1](AMMA Screenshots/language_support_1.jpg)
+![Language Support 2](AMMA Screenshots/language_support_2.jpg)
 
 4. When a language is selected, it gives a toast message, and the login page is opened. If a new user clicks register:
 
-![After Selection](AMMA Screenshots/after_selection.png)
+![After Selection](AMMA Screenshots/after_selection.jpg)
 
 5. When the pregnant woman clicks register:
 
-![Register 1](AMMA Screenshots/register_1.png)
+![Register 1](AMMA Screenshots/register_1.jpg)
 
 6. When the pregnant woman tries to click register button without entering details, she gets a toast message "Enter email":
 
-![Register 2](AMMA Screenshots/register_2.png)
+![Register 2](AMMA Screenshots/register_2.jpg)
 
 7. Creating an account by providing details and pressing the register button gives a toast message as "Account created":
 
-![Register 3](AMMA Screenshots/register_3.png)
+![Register 3](AMMA Screenshots/register_3.jpg)
 
 8. Reminder page to select date, time, set reminder name:
 
-![Reminder 1](AMMA Screenshots/reminder_1.png)
-![Reminder 2](AMMA Screenshots/reminder_2.png)
+![Reminder 1](AMMA Screenshots/reminder_1.jpg)
+![Reminder 2](AMMA Screenshots/reminder_2.jpg)
 
 9. Setting a reminder by clicking set reminder then it will give a toast message as "Reminder set".
 
@@ -108,35 +108,35 @@ To build and run the application, follow these steps:
 
 14. Mental health content trimester-wise:
 
-![Mental Health](AMMA Screenshots/mental_health.png)
+![Mental Health](AMMA Screenshots/mental_health.jpg)
 
 15. Food, Music, Meditation, Yoga:
 
-![F, M, Y, M](AMMA Screenshots/f_m_y_m.png)
+![F, M, Y, M](AMMA Screenshots/f_m_y_m.jpg)
 
 16. Food text translated using Google translate API:
 
-![Food](AMMA Screenshots/food.png)
+![Food](AMMA Screenshots/food.jpg)
 
 17. Music section:
 
-![Music](AMMA Screenshots/music.png)
+![Music](AMMA Screenshots/music.jpg)
 
 18. Playing video on Youtube:
 
-![Music YT](AMMA Screenshots/music_yt.png)
+![Music YT](AMMA Screenshots/music_yt.jpg)
 
 19. Meditation videos:
 
-![Meditation](AMMA Screenshots/meditation.png)
+![Meditation](AMMA Screenshots/meditation.jpg)
 
 20. Yoga videos:
 
-![Yoga](AMMA Screenshots/yoga.png)
+![Yoga](AMMA Screenshots/yoga.jpg)
 
 21. Profile section with registered user mail, husband mail, and mother mail:
 
-![Profile](AMMA Screenshots/profile.png)
+![Profile](AMMA Screenshots/profile.jpg)
 
 22. Pressed logout button and tried to log in with wrong credentials giving toast message "Login failed".
 
