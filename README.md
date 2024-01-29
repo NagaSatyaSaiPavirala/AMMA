@@ -3,7 +3,7 @@
 **Happy Motherhood 😊**
 
 ## Overview
-AMMA (Antenatal Maternal Monitoring and Assistance) is a mobile application designed for pregnant woman as they suffer from slight memory loss so they can use this app to set reminders.If they dismissed the reminder the app sends mail to the husband and mother of pregnant woman to let them do follow up.The app is designed to support 21 languages in India so even the less educated woman can use the app.It supports expectant mothers during their pregnancy journey. The app provides various features to monitor and assist pregnant women, ensuring a healthy and happy pregnancy experience.
+AMMA (Antenatal Maternal Monitoring and Assistance) is a mobile application designed for pregnant woman as they suffer from slight memory loss so they can use this app to set reminders.If they dismissed the reminder the app sends mail to the husband and mother of pregnant woman to let them do follow up.The app is designed to support 21 languages in India so even the less educated woman can use the app.There is no specific app designed for mental health of pregnant woman so it is added in this android app.It supports expectant mothers during their pregnancy journey. The app provides various features to monitor and assist pregnant women, ensuring a healthy and happy pregnancy experience.
 
 ## Technologies Used
 - Programming Language: Java
